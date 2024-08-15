@@ -1,0 +1,2 @@
+# chatApp_portforio
+ChatGPTとLINE風トークが出来るアプリです。Unityで作成しました。
